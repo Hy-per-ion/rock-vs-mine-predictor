@@ -1,1 +1,1 @@
-# rock-vs-mine-predictor
+# Sonar Rock Vs Mine Predictor
